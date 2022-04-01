@@ -27,7 +27,9 @@ git push
 `Common` prepequisites:
 
 > Computer
+
 > Internet
+
 > Free time
 
 ## Contact details
