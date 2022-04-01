@@ -14,14 +14,22 @@ global IT project
 2. Search for a stratup guides
 3. Prepare your environment
 4. Start programming
+5. Save your progress with git
 
+## Code example
+```
+git status
+git add *
+git commint -a
+git push 
+```
 ## Prepequisites
 `Common` prepequisites:
-```
-- Computer
-- Internet
-- Free time
-```
+
+> Computer
+> Internet
+> Free time
+
 ## Contact details
 
 |Name               | Contacts                                  |
