@@ -1,3 +1,4 @@
 #ingore tmp and checkout folders
+tmp/
 tmp/**
 git-checkout/**
