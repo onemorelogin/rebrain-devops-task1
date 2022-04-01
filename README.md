@@ -10,6 +10,10 @@ Some of the `How to` documentation below:
 ## Recomendations
 - if something go wrong, just start from the beginning
 - if your are tired, take a rest and come back in 2-5 days later
+![This is an image1](/assets/images/Emblem-earth.png)
+![This is an image2](Emblem-earth.png)
+
+
 |task               | desciption                                |
 |-------------------|-------------------------------------------|
 |create new project |register new account and create new project|
