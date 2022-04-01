@@ -14,7 +14,7 @@ global IT project
 2. Search for a stratup guides
 3. Prepare your environment
 4. Start programming
-5. Save your progress with git
+5. Save your progress with [git](https://github.com)
 
 ## Code example
 ```
